@@ -1,0 +1,8 @@
+Objective: to create a chart of the best games using containers and applying new CSS properties to them.
+- to revise the commands from the previous lessons
+- to add images, links and paragraphs for the best games chart.
+- to learn about the <div> container tag and use it to create the best games chart.
+- to learn about developer tools
+- to learn about the <i> and <b> tags. To use them in the best games chart.
+- to learn about the new CSS properties. To use them in the best games chart.
+- to save the homework.

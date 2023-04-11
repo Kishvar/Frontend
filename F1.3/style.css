@@ -1,0 +1,30 @@
+.card
+{
+    display: inline-block;
+    width:18%;
+    background-color: white;
+    text-align: center;
+    height: 450px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+img
+{
+    width:100%;
+    border-radius: 5px 5px 0 0;
+}
+.Button
+{
+    background-color: #aef0c4;
+    text-decoration:none;
+    color: #524f4e;
+    border-radius: 45px;
+    display: inline-block;
+    width:40%;
+    font-size:14px;
+}
+
+body{
+    background-color: #aef0c4;
+    text-align: center;
+}

@@ -1,0 +1,8 @@
+
+
+-	to recall the commands from the previous lessons;  
+-	to finalize the site; 
+-	to get acquainted with the “id” attribute and apply it to the site; 
+-	to get acquainted with indents (margin and padding); 
+-	to get acquainted with new CSS properties and apply them to the site 
+-	to get homework.

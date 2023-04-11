@@ -1,0 +1,8 @@
+
+Technical task: 
+
+1. Menu with categories (for example hot dishes, salads, desserts). 
+2. To apply the new CSS properties to the menu that were studied in this lesson. 
+3. To add an “id” to navigate through the categories. 
+4. To make indents on the site. 
+5. The color, font size, and other CSS properties are at your discretion.
