@@ -1,0 +1,16 @@
+<!--
+Objective: to create a comic strip using a table. Add a cover image and the title to it.
+-	To revise the information about tables
+-	To create a table
+-	To style the table
+-	To add background images to the cells using a special property
+-	To position the images inside the cells
+-	To adjust the size of images
+-	To add a cover image
+-	To change the settings of the cover background image
+-	To create a pseudo parallax scrolling effect
+-	To add the title of the comic strip
+-	To add a horizontal line
+-	To style the horizontal line and learn about properties that can be applied to it.
+-	To save the homework
+-->

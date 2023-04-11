@@ -1,0 +1,6 @@
+You need to create a webpage using the template (homework.png file), but you can’t use the <img> tag to insert images, you can only insert them as background images.
+Background color: darkblue
+Border color: whitesmoke
+Shadow color: white
+Shadow blur radius: 50px
+Shadow thickness: 20px
