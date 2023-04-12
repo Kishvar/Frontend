@@ -1,0 +1,16 @@
+Lesson objective: to create a webpage styled as a newspaper from Harry Potter.
+- To revise the previous lesson, remember what background images are and what <hr> is.
+- To create a main container.
+- To style the created container.
+- To create a newspaper header and put an image into it.
+- To create a block for the subheader and add an image into it.
+- To create a block that will contain articles.
+- To create the HTML code of the article and fill it with the necessary information.
+- To learn the float and opacity CSS properties and use them in the project.
+- To import and set the fonts.
+- To remove the main parent block height and add margin to the newspaper sections
+- To add a second article
+- To style the second article.
+- To add shadows to the headings
+- To conclude
+- To save homework

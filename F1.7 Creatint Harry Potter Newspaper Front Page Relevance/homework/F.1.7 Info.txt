@@ -1,0 +1,5 @@
+The background color of the newspaper: #f5f8fd
+
+Font name: Yeseva One
+
+The color of the bottom red block: #f54c39
