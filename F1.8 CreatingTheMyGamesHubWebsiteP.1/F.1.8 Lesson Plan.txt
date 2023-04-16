@@ -1,0 +1,14 @@
+- To revise
+- To prepare the files and folders
+- To create the HTML code for the first page
+- To write the basic styles for the page
+- To learn about the transform property
+- To learn about hover and the transition property
+- To learn about keyframes
+- To create the second page
+- To style the menu
+- To style the content section, to learn about the filter property
+- To finish the cards
+- To fix the scroll bug
+- Conclusions
+- To save the homework
