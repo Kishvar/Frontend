@@ -1,0 +1,14 @@
+Objective: to create a part of a website and implement a sign-up form. To finish the rest of the website independently as homework
+- To revise
+- To prepare the files and folders
+- To reset the browser’s default CSS and set the basic styles
+- To create a menu for the website
+- To create a header for the website
+- To create a section with icons
+- To create a section with games 
+- To create a form
+- To style the form and add redirection
+- To get acquainted with the cursor property
+- To get acquainted with fieldset and legend tags
+- To conclude
+- To save the homework

@@ -1,0 +1,13 @@
+Objective: To finish the website for an Art Studio and learn the rest of the Flexbox properties.
+- To revise commands from previous lessons
+- To create the fourth section. To get acquainted with basis and revise grow.
+- To implement a responsive design for the sections
+- The end of the first lesson and conclusions
+- To save the first homework
+- To develop the gallery
+- To add animation to the gallery and get acquainted with the order property. 
+- To develop the last section with the form
+- To style the section. To get acquainted with shrink and the flex property
+- To style the form and finish the website
+- To conclude
+- To save the second homework

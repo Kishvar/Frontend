@@ -10,4 +10,10 @@ ul
 }
 h1{
     font-size: larger;
+    padding: 20px 40px 60px 80px;
+    
+}
+a{
+    display: inline-block;
+    width:200px;
 }

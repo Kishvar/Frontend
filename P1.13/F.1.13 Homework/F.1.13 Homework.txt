@@ -1,0 +1,1 @@
+ Create the rest of the page according to the template. Make the navigation items work properly and style the button in the final section. This button should also redirect the user to the form page

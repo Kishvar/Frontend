@@ -1,0 +1,15 @@
+Objective:  To learn the basic properties of the Flexbox technology and apply them in practice when creating a side navbar for a page about ecology.
+- To revise the previously learned material
+- To create a folder, HTML and CSS files, link these files
+- To add the forest image as a background
+- To style the image of the forest
+- To create a side navbar
+- To get acquainted with the principles of Flexbox
+- To apply Flexbox
+- To change the direction using flex-direction
+- To reset the default margins and paddings of the browser and make the position of the menu fixed
+- To align the elements on the cross axis using the align-items property
+- To animate the icons
+- To add some space between the icons along the main axis using the justify-content property.
+- To conclude
+- To save the homework

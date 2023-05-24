@@ -1,0 +1,14 @@
+Objective:   to start developing a website for an art studio while learning new properties and peculiarities of working with flex elements. 
+-	To revise commands from previous lessons
+-	To prepare for work
+-	To create the menu section
+-	To create a section with social networks
+-	To style the left part and get acquainted with flex-wrap
+-	To style the right part of the header. Using flex-grow. 
+-	The end of the first lesson. To conclude
+-	To save the first homework
+-	To revise for part 2 of the lesson.
+-	To create the second section
+-	To create the third section. 
+-	To conclude
+-	To save the second homework

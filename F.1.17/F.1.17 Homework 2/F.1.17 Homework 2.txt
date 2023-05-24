@@ -1,0 +1,3 @@
+We need to create another section and add it to the section that you created as your previous homework. 
+When positioning the portraits on the page you need to use the flex-wrap property. The template for this section is called part2.png, the template of the whole page that you will eventually have, is called full_page.png. 
+All the necessary images are in the “images” folder. 

@@ -1,0 +1,1 @@
+You already know how to work with media queries to create mobile versions of websites. The homework will be the following: using the knowledge gained in the lesson, create the mobile version of the menu. Use the template as a reference (Mobile version.png)

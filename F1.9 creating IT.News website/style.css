@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{  
+    height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+    background-color: whitesmoke;
+}
+.header-title{
+    font-size:150px;
+    width: fit-content;
+    margin: auto;
+}
+.title{
+    position: relative;
+    color: black;
+    top: 150px;
+    right:20px;
+    z-index:3;
+    animation: jump 4s ease 0s infinite;
+}
+.title-blue{
+    position: relative;
+    color:red;
+    opacity:0.5;
+    z-index:2;
+    animation: jump 3s ease 0s infinite alternate;
+
+}
+.title-red{
+    position: relative;
+    color:blue;
+    opacity:0.5;
+    bottom: 150px;
+    left: 20px;
+    z-index:1;
+    animation: jump 3s ease 1s infinite reverse;
+}
+.header-btn{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: block;
+    color: white;
+    background-color: black;
+    width: 300px;
+    height:50px;
+    text-decoration: none;
+    text-align: center;
+    line-height:50px;
+    z-index: 3;
+    transition:0.5s;
+}
+.header-btn-blue{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-600%,-60%);
+    background-color: red;
+    width: 300px;
+    height: 50px;
+    opacity: 0.5;
+    z-index: 2;
+
+}
+.header-btn-red{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-40%,-40%);
+    background-color: blue;
+    width: 300px;
+    height: 50px;
+    opacity: 0.5;
+    z-index: 1;
+}
+.header-btn:hover{
+    background-color: white;
+    border: 2px solid black;
+    color:black;
+}
+.go-up-btn{
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    box-shadow: 0 5px 10px gray;
+}
+@keyframes jump{
+    0%{
+        transform: translate(0,0);
+    }
+    50%{
+        transform:translate(-20px,-20px)
+    }
+    100%{
+        transform: translate(0,0);
+    }
+}
+

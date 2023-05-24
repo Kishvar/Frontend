@@ -1,0 +1,2 @@
+You need to open the project that we created during the lesson in the browser. Toggle on the Developer Tools, click on the phone icon (to check the responsive mode) and choose mobile devices, you can select Galaxy S5. 
+As you can see our media queries are not applying to all screens and screen sizes. We still have some problems with the content when emulating smartphones. Your homework is to fix these problems and to make the website display correctly on smartphones, too.

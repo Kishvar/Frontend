@@ -1,0 +1,2 @@
+To do the homework you need to create a separate folder, because it will be a small independent project. 
+In the Homework 1 folder there’s a template of a movie card that you need to create using Flexbox. Also, there’s a file called poster.jpg, it’s the poster of the movie (you will need it). You should pick other information on your own, because you already know everything you need. 
